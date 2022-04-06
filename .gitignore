@@ -1,0 +1,4 @@
+# 忽略update.htm 文件
+update.htm
+# 忽略test文件下的所有文件
+test/
